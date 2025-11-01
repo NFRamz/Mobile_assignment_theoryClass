@@ -14,11 +14,11 @@ class MyApp extends StatelessWidget {
       title: 'tugas 2',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(scaffoldBackgroundColor: const Color(0xFF080812)),
-
       home: const Login(),
     );
   }
 }
+
 
 
 
