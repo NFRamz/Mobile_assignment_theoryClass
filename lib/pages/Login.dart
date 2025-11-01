@@ -41,17 +41,14 @@ class Login extends StatelessWidget {
                 children: [
                   Text(
                     "Login",
-                    style: GoogleFonts.poppins(color: Colors.white, fontSize: 50, fontWeight: FontWeight.bold),
+                    style: GoogleFonts.poppins(color: Colors.white, fontSize: 50, fontWeight: FontWeight.bold)
                   ),
 
                   SizedBox(height: 4),
 
                   Text(
                     "Let’s get started",
-                    style: GoogleFonts.poppins(
-                      color: Colors.white,
-                      fontSize: 20,
-                    ),
+                    style: GoogleFonts.poppins(color: Colors.white, fontSize: 20)
                   ),
 
                   SizedBox(height: 60),
@@ -99,7 +96,7 @@ class Login extends StatelessWidget {
                         padding: EdgeInsets.symmetric(horizontal: 35),
                         child: Text(
                           "Or",
-                          style: GoogleFonts.poppins(color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold,),
+                          style: GoogleFonts.poppins(color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold)
                         ),
                       ),
 
@@ -142,3 +139,4 @@ class Login extends StatelessWidget {
   }
 
 }
+
