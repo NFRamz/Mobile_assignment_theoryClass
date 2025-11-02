@@ -5,11 +5,12 @@ Kelas  : Pemrograman Mobile D<br>
 
 ## Foto aplikasi
 <br>
-<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/1.png" position="center">
+<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/1.png" align="center">
 <br>
-<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/2.png">
+<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/2.png" align="center">
 <br>
-<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/3.png">
+<img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/3.png" align="center">
+
 
 
 
