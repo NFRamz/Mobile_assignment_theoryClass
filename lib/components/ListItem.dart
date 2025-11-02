@@ -3,18 +3,18 @@ import 'package:google_fonts/google_fonts.dart';
 
 Widget ListItem(String theaterName) {
   return Container(
-    height: 70,
+    height    : 70,
     decoration: BoxDecoration(
-      color: Color(0xFFeeeeed),
+      color       : Color(0xFFeeeeed),
       borderRadius: BorderRadius.circular(12),
-      boxShadow: [
+      boxShadow   : [
         BoxShadow(color: Colors.grey, blurRadius: 4, offset: Offset(0, 3))
       ],
     ),
 
     child: Padding(
       padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
-      child: Row(
+      child  : Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Text(
@@ -26,4 +26,5 @@ Widget ListItem(String theaterName) {
       ),
     ),
   );
+
 }
