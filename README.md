@@ -6,13 +6,14 @@ Kelas  : Pemrograman Mobile D<br>
 <br>
 ## Foto aplikasi
 <br>
-link video preview:<a href="https://youtu.be/eaVfPFW2dZ4">
+link video preview: <a href="https://youtu.be/eaVfPFW2dZ4">Video Preview aplikasi</a>
 <br>
 <img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/1.png">
 <br>
 <img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/2.png">
 <br>
 <img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/3.png">
+
 
 
 
