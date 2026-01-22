@@ -1,4 +1,3 @@
-# assignment3
 Nama   : Naufal Ramzi<br>
 NIM     : 202310370311026<br>
 Kelas  : Pemrograman Mobile D<br>
@@ -13,6 +12,7 @@ link video preview: <a href="https://youtu.be/eaVfPFW2dZ4">assignment 2_Preview 
 <img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/2.png">
 <br>
 <img src="https://github.com/NFRamz/Mobile_assignment_theoryClass/blob/assignment2/Dokumentasi/3.png">
+
 
 
 
